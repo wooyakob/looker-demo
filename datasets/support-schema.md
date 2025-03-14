@@ -1,0 +1,12 @@
+ID,
+Customer,
+Contact,
+Role,
+Service,
+Purchased,
+First Response Time,
+Resolution Time,
+Satisfaction,
+Feedback,
+User,
+Agent
