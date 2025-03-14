@@ -1,0 +1,55 @@
+  [
+  {
+    "ID": 1,
+    "Customer": "Acme Corp",
+    "Contact": "Emily Carter",
+    "Role": "IT Manager",
+    "Product": "Acme Analytics Pro v2.1",
+    "Purchased": "2024-01-15",
+    "First Response Time": "1 day, 2 hours, 30 minutes, 10 seconds",
+    "Resolution Time": "3 days, 5 hours, 12 minutes, 33 seconds",
+    "Satisfaction": 4,
+    "Feedback": "Fast and efficient resolution, very satisfied.",
+    "User": "I cannot generate reports from the dashboard; please assist.",
+    "Agent": "Hello Emily, I'll investigate the report generation issue and get back to you shortly."
+  },
+
+  {
+    "ID": 2,
+    "Customer": "Alpha Ventures",
+    "Contact": "Oliver Anderson",
+    "Role": "Business Analyst",
+    "Product": "Alpha AI Assistant v2.3",
+    "Purchased": "2024-02-18",
+    "First Response Time": "1 day, 3 hours, 50 minutes, 40 seconds",
+    "Resolution Time": "1 day, 5 hours, 30 minutes, 45 seconds",
+    "Satisfaction": 2,
+    "Feedback": "The service was mediocre; improvements are needed.",
+    "User": "I need assistance with customizing my user settings.",
+    "Agent": "Hi Oliver, please detail the issues you're encountering with customization."
+  },
+
+  {
+    "ID": 3,
+    "Customer": "Delta Systems",
+    "Contact": "Olivia Brown",
+    "Role": "Customer Support Specialist",
+    "Product": "Delta Data Manager v4.0",
+    "Purchased": "2024-01-20",
+    "First Response Time": "2 days, 3 hours, 15 minutes, 30 seconds",
+    "Resolution Time": "2 days, 6 hours, 15 minutes, 40 seconds",
+    "Satisfaction": 5,
+    "Feedback": "Issue resolved quickly, excellent support service.",
+    "User": "The application crashes whenever I try to update data.",
+    "Agent": "Hello Olivia, I'm sorry to hear about the crash. Can you send over the error logs for further analysis?"
+  },
+
+
+
+
+
+
+
+
+
+]
