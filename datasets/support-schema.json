@@ -1,0 +1,14 @@
+{
+    "ID": 1,
+    "Customer": "Brio Technologies",
+    "Contact": "Jacob Wood",
+    "Role": "Sales Engineer",
+    "Product": "Couchbase Capella Free Trial",
+    "Purchased": "2024-02-10",
+    "First Response Time": "7 days, 4 hours, 40 minutes, 7 seconds",
+    "Resolution Time": "15 days, 5 hours, 44 minutes, 54 seconds",
+    "Satisfaction": 3,
+    "Feedback": "The support team was helpful, but the response time was longer than I expected.",
+    "User": "Can't access Columnar and need it to perform conversational analytics on my JSON data.",
+    "Agent": "Hi Jacob, I can help you with that. Please provide me with your account details and I'll get you set up with Columnar."
+}
