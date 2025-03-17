@@ -69,12 +69,29 @@ Title 2024 Customer Support Analysis
 Use pages
 - Home
 
+1. 
+**Support Ticket Volume by Customer**
+
+Share
+Schedule report - support ticket volume by customer
+Set it up to stay updated (data is refreshed every 15 minutes), with support ticket volume by customer - first thing every Monday morning 8am. 
+Send now to test it out.
+Show email report.
+
+Customize email subject line: 
+Support Ticket Volume by Customer
+MSG. 
+Monitor support ticket volume by customer, to help escalate investigations for priority customers with the most issues.
+
+2. 
 **Average First Response Time by Month**
 
 1. Sharp decrease in Feb & March, indicates improvement in support efficiency in early Q1
 2. Spikes in July-August - possible causes, higher ticket volume, staff shortages, process inefficiencies (req. further investigation)
 3. Fluctuations in Q3/4 - Rising towards December, could be linked to seasonal demand, holidays, ops challenges
 
+
+3. 
 **Resolution Time by Issue Type**
 
 - No Issue Type categorized in dataset
@@ -96,6 +113,7 @@ Add date range control to drill down into issues that took the most time during 
 
 January - lots of login issues, is this linked to forced password reset or 2FA changes?
 
+4. 
 **Positive Support Experiences by Contact**
 Can look at users who have satisfaction scores of 5
 Can search for all sat scores for a specific contact.
@@ -109,6 +127,8 @@ Michael Smith
 Enjoys working with us but didn't have a great experience with Visionary
 Worth reaching out or investigating more to understand why, we need to keep this customer happy
 
+
+5. 
 **Support Tickets by Product**
 Pie Chart
 Most issues with Visionary product
@@ -119,27 +139,19 @@ Help product, support team to focus
 and reduce issues in 2025
 
 
+**Conclusion**
+/reports/report-email.md
+Respond to CEO
+Attach report
+Share email insights that paint a clearer picture of 2024
+and opportunities for progress in 2025
 
+As you can see, we can uncover a lot of valauable insights from data, that help us to work together as a team and improve performance in 2025.
 
+Our charts and report help us to work towards our business goals of:
 
+1. Responding quickly
+2. Providing a great experience
+3. Supporting the sales team with identifying opportunities to engage
 
-
-
-
-
-
-Share
-Schedule report - support ticket volume by customer
-Set it up to stay updated (data is refreshed every 15 minutes), with support ticket volume by customer - first thing every Monday morning 8am. 
-Send now to test it out.
-Show email report.
-
-Customize email subject line: 
-Support Ticket Volume by Customer
-MSG. 
-Monitor support ticket volume by customer, to help escalate investigations for priority customers with the most issues.
-
-
-
-
-
+Back to you, [name of presenter]
