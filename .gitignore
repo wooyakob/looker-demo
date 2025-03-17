@@ -4,4 +4,6 @@
 env/
 venv/
 
+
+# Apple Stuff
 .DS_Store
