@@ -13,3 +13,6 @@ Are there any analytics or insights in Zendesk?
 
 
 Support Tickets from 2024!
+100 customers
+Various roles
+Different tech products

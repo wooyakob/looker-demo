@@ -1,10 +1,10 @@
-  [
+[
   {
     "ID": 1,
     "Customer": "Acme Corp",
     "Contact": "Emily Carter",
     "Role": "IT Manager",
-    "Product": "Acme Analytics Pro v2.1",
+    "Product": "Analytics Pro",
     "Purchased": "2024-01-15",
     "First Response Time": "1 day, 2 hours, 30 minutes, 10 seconds",
     "Resolution Time": "3 days, 5 hours, 12 minutes, 33 seconds",
@@ -19,7 +19,7 @@
     "Customer": "Alpha Ventures",
     "Contact": "Oliver Anderson",
     "Role": "Business Analyst",
-    "Product": "Alpha AI Assistant v2.3",
+    "Product": "AI Assistant",
     "Purchased": "2024-02-18",
     "First Response Time": "1 day, 3 hours, 50 minutes, 40 seconds",
     "Resolution Time": "1 day, 5 hours, 30 minutes, 45 seconds",
@@ -34,7 +34,7 @@
     "Customer": "Delta Systems",
     "Contact": "Olivia Brown",
     "Role": "Customer Support Specialist",
-    "Product": "Delta Data Manager v4.0",
+    "Product": "Data Manager",
     "Purchased": "2024-01-20",
     "First Response Time": "2 days, 3 hours, 15 minutes, 30 seconds",
     "Resolution Time": "2 days, 6 hours, 15 minutes, 40 seconds",
@@ -43,6 +43,91 @@
     "User": "The application crashes whenever I try to update data.",
     "Agent": "Hello Olivia, I'm sorry to hear about the crash. Can you send over the error logs for further analysis?"
   },
+
+  {
+    "ID": 4,
+    "Customer": "Sigma Innovations",
+    "Contact": "Ava Wilson",
+    "Role": "Technical Support Agent",
+    "Product": "Mobile Platform",
+    "Purchased": "2024-01-10",
+    "First Response Time": "2 days, 5 hours, 35 minutes, 22 seconds",
+    "Resolution Time": "2 days, 4 hours, 40 minutes, 15 seconds",
+    "Satisfaction": 4,
+    "Feedback": "Support resolved my issue swiftly, very happy.",
+    "User": "I am having trouble integrating the new API.",
+    "Agent": "Hello Ava, I will help you integrate the API. Could you share the documentation you are using?"
+  },
+
+  {
+    "ID": 5,
+    "Customer": "Gamma Technologies",
+    "Contact": "Noah Miller",
+    "Role": "System Administrator",
+    "Product": "Cloud Services",
+    "Purchased": "2024-03-01",
+    "First Response Time": "0 days, 6 hours, 45 minutes, 50 seconds",
+    "Resolution Time": "0 days, 8 hours, 50 minutes, 30 seconds",
+    "Satisfaction": 5,
+    "Feedback": "Impressed by the prompt and effective support.",
+    "User": "The software is showing error codes that I don't understand.",
+    "Agent": "Hi Noah, please provide the error code details so I can assist you further."
+  },
+
+
+  {
+    "ID": 6,
+    "Customer": "Beta Solutions",
+    "Contact": "Michael Smith",
+    "Role": "Product Manager",
+    "Product": "Security Shield",
+    "Purchased": "2024-02-05",
+    "First Response Time": "0 days, 5 hours, 20 minutes, 45 seconds",
+    "Resolution Time": "1 day, 4 hours, 25 minutes, 20 seconds",
+    "Satisfaction": 2,
+    "Feedback": "The solution worked, but the initial response was delayed.",
+    "User": "My account login is failing unexpectedly.",
+    "Agent": "Hi Michael, please try resetting your password and let me know if the issue persists."
+  },
+
+  {
+    "ID": 7,
+    "Customer": "AlphaDog",
+    "Contact": "John Cipriani",
+    "Role": "CEO",
+    "Product": "Database Free Trial",
+    "Purchased": "2024-04-08",
+    "First Response Time": "0 days, 5 hours, 20 minutes, 45 seconds",
+    "Resolution Time": "1 day, 4 hours, 25 minutes, 20 seconds",
+    "Satisfaction": 2,
+    "Feedback": "My issue took too long to resolve, expect it to be faster as likely to encounter lots of issues without an expert database team.",
+    "User": "On the free trial that does not include extra support and can't access Cluster",
+    "Agent": "Hi Michael, please try resetting your Cluster credentials and let me know if the issue persists."
+  },
+
+  
+
+
+
+
+]
+
+
+
+  
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
 
 
 
